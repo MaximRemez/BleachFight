@@ -1,2 +1,2 @@
 # BleachFight
-2D gane on Unity/C#
+2D game on Unity/C#
