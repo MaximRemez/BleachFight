@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Platform
+  - platformPoints
+  - FlyAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Ignore
+  - Getsuga
+  - Point
+  - ResetPlatform
+  - FlyAttack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LvlBack
+    uniqueID: 415639787
+    locked: 0
+  - name: Background
+    uniqueID: 2225533877
+    locked: 0
+  - name: ForeGround
+    uniqueID: 418526789
+    locked: 0
+  - name: Player
+    uniqueID: 1499861475
+    locked: 0
+  - name: Ground
+    uniqueID: 2607253423
+    locked: 0
